@@ -1,5 +1,11 @@
 {
   "name": "seoul-metro-route-map",
+  "author": {
+    "name": "Jaeu Jeong",
+    "email": "wodndb@gmail.com",
+    "url": "https://github.com/wodndb"
+  },
+  "license": "MIT",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
