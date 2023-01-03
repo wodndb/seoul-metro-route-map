@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.35508744"
-     inkscape:cx="1782.6595"
-     inkscape:cy="1203.9288"
+     inkscape:zoom="0.38749524"
+     inkscape:cx="1909.7009"
+     inkscape:cy="1338.081"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6">
+     inkscape:current-layer="layer4">
     <inkscape:grid
        type="xygrid"
        id="grid66" />
@@ -166,12 +166,12 @@
      transform="matrix(0.85822117,0,0,0.90155191,3.9091695,6.6257313)">
     <path
        style="fill:none;fill-opacity:0;stroke:#996cac;stroke-width:0.914161;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5233);marker-mid:url(#marker5179);marker-end:url(#Dot)"
-       d="m 286.87083,272.29592 77.77654,105.20557 45.81796,0.82942 44.21965,2.04557 54.03232,42.31246 3.69034,-93.42004 -3.08392,-113.75482 53.1042,-1.53829 61.77412,55.20891 61.49144,61.49427 47.96393,49.36692 54.98529,-30.15928 73.9856,3.80322 87.1778,-0.88388 -0.96606,63.24828 103.22226,-0.14657 v -56.4369 h 48.3037"
+       d="m 286.87083,272.29592 77.77654,105.20557 45.81796,0.82942 44.21965,2.04557 54.03232,42.31246 3.69034,-93.42004 -3.08392,-113.75482 53.1042,-1.53829 61.77412,55.20891 61.49144,61.49427 47.96393,49.36692 54.98529,-30.15928 73.9856,3.80322 67.20882,0.7691 -0.96606,63.24828 103.22224,-0.14657 v -56.4369 h 48.3037"
        id="path390"
        sodipodi:nodetypes="cccccccccccccccccc" />
     <path
        style="fill:none;fill-opacity:0;stroke:#996cac;stroke-width:0.914161;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5179);marker-mid:url(#marker5179);marker-end:url(#Dot)"
-       d="m 1052.4894,415.07153 1.5147,50.34551 h 48.47"
+       d="m 1032.5204,416.72451 1.5147,50.34551 h 48.47"
        id="path3365"
        sodipodi:nodetypes="ccc" />
   </g>
@@ -201,7 +201,13 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Line8"
-     transform="matrix(0.85822117,0,0,0.90155191,3.9091695,6.6257313)" />
+     transform="matrix(0.85822117,0,0,0.90155191,3.9091695,6.6257313)">
+    <path
+       style="fill:none;fill-opacity:0;stroke:#e6186c;stroke-width:1.13685;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5233);marker-mid:url(#marker5179);marker-end:url(#Dot)"
+       d="m 987.81627,354.6524 -57.30227,63.63956 -63.37981,73.5574 -52.96117,1e-5 -0.86821,100.00501 v 61.98659 l 98.97663,-1.65297"
+       id="path2524"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
