@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.38749524"
-     inkscape:cx="1909.7009"
-     inkscape:cy="1338.081"
+     inkscape:zoom="0.28616769"
+     inkscape:cx="1845.072"
+     inkscape:cy="1361.0901"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4">
+     inkscape:current-layer="layer10">
     <inkscape:grid
        type="xygrid"
        id="grid66" />
@@ -212,7 +212,13 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Line9"
-     transform="matrix(0.85822117,0,0,0.90155191,3.9091695,6.6257313)" />
+     transform="matrix(0.85822117,0,0,0.90155191,3.9091695,6.6257313)">
+    <path
+       style="fill:none;fill-opacity:0;stroke:#bdb092;stroke-width:1.13685;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5179);marker-mid:url(#Dot);marker-end:url(#Dot)"
+       d="m 273.90639,322.862 48.53183,-0.75738 65.23952,0.75738 42.96262,31.05198 25.45931,28.02251 -0.79561,41.65511 45.34942,28.0225 66.83074,-2.27209 55.69228,24.99304 60.46588,29.53725 88.31203,-5.30155 15.91207,10.60312 25.45933,20.44885 101.8373,-2.27209 50.12303,-40.14035 3.18242,-43.92719 63.64834,0.75735 46.145,-0.75735"
+       id="path3807"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer11"
